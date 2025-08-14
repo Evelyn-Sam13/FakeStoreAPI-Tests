@@ -3,6 +3,9 @@
 Este projeto é de estudo e laboratório de **testes automatizados de API** utilizando a Fake Store API com **Postman**.  
 O objetivo é praticar operações comuns de API, como login, listagem de produtos, busca por ID e criação de produtos.
 
+Projeto de estudo e prática de **testes de API** utilizando a Fake Store API com **Postman** (JSON, API REST).
+
+
 ---
 
 ## Casos de Teste
